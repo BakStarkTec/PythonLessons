@@ -3,7 +3,6 @@
 # *args, **kwargs keyword arguments
 #  generators and decorators
 
-import os
 
 
 def sum_number(*numbers):
